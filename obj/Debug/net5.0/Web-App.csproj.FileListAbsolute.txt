@@ -405,3 +405,6 @@ D:\.NET\API\Park\Web-App\obj\Debug\net5.0\Razor\Views\NationalParks\Index.cshtml
 D:\.NET\API\Park\Web-App\obj\Debug\net5.0\Razor\Views\NationalParks\Upsert.cshtml.g.cs
 D:\.NET\API\Park\Web-App\obj\Debug\net5.0\Razor\Views\Trails\Index.cshtml.g.cs
 D:\.NET\API\Park\Web-App\obj\Debug\net5.0\Razor\Views\Trails\Upsert.cshtml.g.cs
+D:\.NET\API\Park\Web-App\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\.NET\API\Park\Web-App\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\.NET\API\Park\Web-App\obj\Debug\net5.0\Razor\Views\Home\AccessDenied.cshtml.g.cs
